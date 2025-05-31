@@ -5,6 +5,7 @@ const studentAccounts = [
   { id: '2401', name: '홍길동', email: '2401@school.com', password: 'pass1234' },
   { id: '2402', name: '김민수', email: '2402@school.com', password: 'pw5678' },
   { id: '2403', name: '이서연', email: '2403@school.com', password: 'abc9876' },
+  { id: '2404', name: '김태연', email: '2404@school.com', password: 'pw9876' }
   // 이 아래에 더 많은 데이터를 추가할 수 있어요
 ];
 
